@@ -1,0 +1,4 @@
+- searching dalam kumpulan data
+- menampilkan username pada profil
+- menampilkan pop up dalam delete
+- memahami algo scam
